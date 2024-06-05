@@ -1,0 +1,10 @@
+export { default as Home } from "./Home";
+export { default as AdminDashboard } from "./AdminDashboard";
+export { default as StudentDashboard } from "./StudentDashboard";
+export { default as Adminstration } from "./Admin/Administration";
+export { default as Reports } from "./Admin/Reports";
+export { default as Jobs } from "./Student/Jobs";
+export { default as Trainings } from "./Student/Trainings";
+export { default as Login } from "./Login";
+export { default as Profile } from "./Student/Profile";
+export { default as AdminProfile } from "./Admin/Profile";
